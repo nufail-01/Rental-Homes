@@ -5,10 +5,11 @@ This project demonstrates layout mastery, responsiveness, smooth transitions, an
 
 ---
 
-## 🌐 Live Preview
+## 🌐 Live Demo
 
-> *(Add your deployed link here if hosted on GitHub Pages, Netlify, or Vercel)*  
-> Example: [🔗 View Live](https://yourusername.github.io/rental-houses/)
+[![Website Preview](assets/images/contact.png)](https://nufail-01.github.io/Rental-Homes/)
+
+🔗 **[View Live Project](https://nufail-01.github.io/Rental-Homes/)**
 
 ---
 
