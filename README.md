@@ -24,8 +24,32 @@ This project demonstrates layout mastery, responsiveness, smooth transitions, an
 
 ---
 
-## 📸 Screenshots
+## 🧠 What I Learned
 
-*(Add screenshots here if available)*
+- Structuring HTML semantically for better accessibility
+- Creating responsive layouts with media queries
+- Using CSS Grid and Flexbox together for flexible design
+- Designing UI that adapts gracefully across screen sizes
+- Improving visual design with spacing, fonts, and hierarchy
+- Building smooth transitions using only CSS
+
+---
+
+## 🧪 Challenges Faced
+
+- Handling layout shifts on extremely small screens  
+- Ensuring consistent spacing and alignment across sections  
+- Balancing visual appeal with clean, readable code  
+- Maintaining responsiveness without adding JavaScript or frameworks
+
+---
+
+## 🛠️ Tech Stack
+
+- ✅ HTML5  
+- ✅ CSS3  
+- ✅ CSS Grid / Flexbox  
+- ✅ Media Queries  
+- 🔗 GitHub Pages (for deployment)
 
 ---
