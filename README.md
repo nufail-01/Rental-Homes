@@ -57,3 +57,4 @@ This project demonstrates layout mastery, responsiveness, smooth transitions, an
 🔗 [GitHub Repository](https://github.com/nufail-01/glowing-button)
 ---
 ## 🤝 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
