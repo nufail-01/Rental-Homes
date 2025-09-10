@@ -59,7 +59,7 @@ This project demonstrates layout mastery, responsiveness, smooth transitions, an
 
 ---
 
-## 🤝 Connect with Mee
+## 🤝 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
