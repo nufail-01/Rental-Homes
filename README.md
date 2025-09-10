@@ -9,8 +9,6 @@ This project demonstrates layout mastery, responsiveness, smooth transitions, an
 
 [![Website Preview](assets/images/rentalhomes.png)](https://nufail-01.github.io/Rental-Homes/)
 
-
-
 ---
 
 ## ✨ Project Highlights
