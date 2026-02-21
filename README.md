@@ -23,6 +23,7 @@ This project demonstrates layout mastery, responsiveness, smooth transitions, an
 
 ---
 
+
 ## 🧠 What I Learned
 
 - Structuring HTML semantically for better accessibility
